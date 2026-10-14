@@ -1,0 +1,16 @@
+Sample Input:
+No input required
+
+Sample Output:
+Account 1 Details:
+Account Number: 101
+Balance: 5000
+
+Account 2 Details:
+Account Number: 102
+Balance: 8000
+Total Accounts: 2
+
+Accessing Private Data:
+Account Number: 101
+Balance using Friend Class: 5000
